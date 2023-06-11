@@ -47,6 +47,6 @@ To provide a visual representation of the project's components and data flow, I 
 
 ## Data visualization in Quicksight
 
-[Sheet_1_2023-06-10T20_51_19.pdf](https://github.com/Glavian3/Youtube-data-analysis/files/11714790/Sheet_1_2023-06-10T20_51_19.pdf)
+![Sheet_1_2023-06-10T20_51_19_page-0001 (1)](https://github.com/Glavian3/Youtube-data-analysis/assets/53813196/5919fc6b-d0d2-42bc-b509-8aa8dfabd232)
 
 
